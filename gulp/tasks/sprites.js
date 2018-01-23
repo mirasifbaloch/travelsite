@@ -10,7 +10,7 @@ var config = {
 		spacing: {
 			padding: 1
 		}
-	}
+	},
 	mode: {
 		css: {
 			variables: {
